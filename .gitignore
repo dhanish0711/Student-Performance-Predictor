@@ -19,3 +19,10 @@ ENV/
 # Local OS files
 .DS_Store
 Thumbs.db
+
+# Generated datasets and models
+student_data.csv
+exam_score_model.pkl
+train_set.csv
+test_set.csv
+evaluation_results.csv
